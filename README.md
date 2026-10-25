@@ -26,9 +26,11 @@ This project presents an interactive sales analysis dashboard built using Micros
 - Present business data through an interactive dashboard.
 
 ## Files Included
-Excel workbook containing the dashboard and supporting data.
+Excel workbook containing the dashboard and supporting data
 [Sales Analysis Dashboard.xlsx](https://github.com/user-attachments/files/33920654/Sales.Analysis.Dashboard.xlsx)
- – Screenshot of the dashboard.
+Screenshot of the dashboard
+<img width="1600" height="840" alt="Sales Analysis Dashboard Picture" src="https://github.com/user-attachments/assets/633df622-7210-41e1-8222-a5ddac185f4b" />
+
 
 ## How to Use
 1. Download the Excel workbook.
